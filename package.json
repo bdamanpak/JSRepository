@@ -1,0 +1,21 @@
+{
+  "name": "hw7",
+  "version": "1.0.0",
+  "description": "this is the hw7 of js which is initialized with npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "HW7"
+  ],
+  "author": "Bardia Damanpak",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.197"
+  }
+}
